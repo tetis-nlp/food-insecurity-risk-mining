@@ -30,7 +30,7 @@ Test our app in Google Colab:  [![Open In Colab](https://colab.research.google.c
 **Research lab**: TETIS - [Maison de la télédétection](https://www.teledetection.fr/index.php/en/organizations/umr-tetis) (Montpellier, FRANCE)
 
 # 💡 1. Basic concepts
-##1.2 What is food security?
+## 1.2 What is food security?
 Is food... 📦available? 💸🚚accessible? 🤢safe? 🏜️sustainable?
 
 A more technical definition is proposed by the High Level Panel of Experts on Food Security and Nutrition (HLPE-FN) of the Committee on World Food Security ([Rome, 2020](https://www.fao.org/cfs/cfs-hlpe/publications/hlpe-15/en)) :
