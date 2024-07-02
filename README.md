@@ -1,6 +1,7 @@
 # food-insecurity-risk-mining
 Automatic named entity recognition pipeline to identify possible drivers of food insecurity in news articles written in French language. The project aims to support the event extraction (EE) task using sentiment analysis of relevant sentences and link the TIME and LOCATION entities to each event mention.
 
+Test our app in Google Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tetis-nlp/food-insecurity-risk-mining/blob/main/TETIS_foodinsecurity_analyzer.ipynb)
 # Intro: Analyzer of text related to Food Security
 
 🎯 **Goal**: Analyze the input text to identify the food insecurity risk factors, the geographical scope and relevant named-entities.
