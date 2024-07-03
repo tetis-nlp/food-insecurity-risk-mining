@@ -1,5 +1,5 @@
 # food-insecurity-risk-mining
-Automatic named entity recognition pipeline to identify possible drivers of food insecurity in news articles written in French language. The project aims to support the event extraction (EE) task using sentiment analysis of relevant sentences and link the TIME and LOCATION entities to each event mention.
+Automatic named entity recognition pipeline to identify possible drivers of food insecurity in news articles written in French language 🇫🇷. The project aims to support the event extraction (EE) task using sentiment analysis of relevant sentences and link the TIME and LOCATION entities to each event mention.
 
 Test our app in Google Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tetis-nlp/food-insecurity-risk-mining/blob/main/TETIS_foodinsecurity_analyzer.ipynb)
 # Intro: Analyzer of text related to Food Security
@@ -30,7 +30,7 @@ Test our app in Google Colab:  [![Open In Colab](https://colab.research.google.c
 **Research lab**: TETIS - [Maison de la télédétection](https://www.teledetection.fr/index.php/en/organizations/umr-tetis) (Montpellier, FRANCE)
 
 # 💡 1. Basic concepts
-## 1.2 What is food security?
+## 1.1 What is food security?
 Is food... 📦available? 💸🚚accessible? 🤢safe? 🏜️sustainable?
 
 A more technical definition is proposed by the High Level Panel of Experts on Food Security and Nutrition (HLPE-FN) of the Committee on World Food Security ([Rome, 2020](https://www.fao.org/cfs/cfs-hlpe/publications/hlpe-15/en)) :
