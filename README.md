@@ -16,15 +16,29 @@ Test our app in Google Colab:  [![Open In Colab](https://colab.research.google.c
 
 🐱‍👤 **GitHub repository**: https://github.com/tetis-nlp/food-insecurity-risk-mining/
 
+📄 **Dataverse with output data and thematic lexicon**: https://doi.org/10.57745/1PISWK
+
 **Team members**:
 
 | Member      | Affiliation            | Role |
 |-------------|------------------------|-------------|
-| Nelson JAIMES-QUINTERO    | INRAE / TETIS - Univ. de Strasbourg      |Author - intern|
+| [Nelson JAIMES-QUINTERO](https://github.com/NelsonJQ/)    | INRAE / TETIS - Univ. de Strasbourg      |Author|
 | [Maguelonne TEISSEIRE](https://umr-tetis.fr/index.php/fr/equipe-misca/maguelone-teisseire) | INRAE / TETIS            |Supervisor|
 | [Sarah VALENTIN](https://www.scopus.com/authid/detail.uri?authorId=57203356039)  | CIRAD / TETIS |Supervisor|
 
-
+# Citation
+```
+@data{1PISWK_2024,
+author = {Jaimes-Quintero, Nelson and Teisseire, Maguelonne and Valentin, Sarah},
+publisher = {Recherche Data Gouv},
+title = {{Corpus de journaux en français sur la sécurité alimentaire au Burkina Faso et Sénégal annotés en entités nommées et analyse de sentiment}},
+UNF = {UNF:6:bIwyM4z47x2MBnhmAR+pHw==},
+year = {2024},
+version = {V1},
+doi = {10.57745/1PISWK},
+url = {https://doi.org/10.57745/1PISWK}
+}
+```
 **Publication date**: 07-2024
 
 **Research lab**: TETIS - [Maison de la télédétection](https://www.teledetection.fr/index.php/en/organizations/umr-tetis) (Montpellier, FRANCE)
